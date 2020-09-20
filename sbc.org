@@ -1,0 +1,7 @@
+* Single Board Computers
+
+Small computers embeded on a single board make for great DIY projects. If the power consumption is low, then there are just that many more opportunities. Here is my list of boards and their capabilities.
+
+** Raspberry Pi 4
+
+I used this board to run a K8 cluster with great success.
