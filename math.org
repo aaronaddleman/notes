@@ -1,0 +1,15 @@
+⊙ line one
+
+
+\begin{equation}                        % arbitrary environments,
+x=\sqrt{b}                              % even tables, figures
+\end{equation}                          % etc
+
+* Dollars
+hello $E=mc^2$
+* Parens
+hello \(E=mc^2\)
+* Double dollars
+hello $$E=mc^2$$
+* Brackets
+hello \[E=mc^2\]
