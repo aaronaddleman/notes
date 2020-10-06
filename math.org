@@ -1,8 +1,6 @@
 ⊙ 63 and -7/4
 
-#+BEGIN_SRC
 \f(x) = x^2 -7/4
-#+END_SRC
 
 * Dollars
 hello 
@@ -13,9 +11,6 @@ $E=mc^2$
 
 ⊙ math testing
 ** Greek characters
-#+BEGIN_SRC
-\alpha \beta
-#+END_SRC
 \alpha \beta
 
 * Parens
