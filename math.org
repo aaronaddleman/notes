@@ -1,6 +1,12 @@
 ⊙ 63 and -7/4
 
-\[f(x)]
+\[\int(x)]
+
+⊙ adding a known expression
+
+\[
+    \binom{n}{k} = \frac{n!}{k!(n-k)!}
+\]
 
 * Dollars
 hello 
