@@ -1,6 +1,6 @@
 ⊙ 63 and -7/4
 
-\[f(x) = x^2 -7/4\]
+\[f(x)]
 
 * Dollars
 hello 
