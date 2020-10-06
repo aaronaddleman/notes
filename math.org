@@ -8,7 +8,7 @@ f(x) = x^2 -7/4
 hello 
 
 #+BEGIN_SRC
-$E=mc^2
+$E=mc^2$
 #+END_SRC
 
 * Parens
