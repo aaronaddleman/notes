@@ -11,6 +11,13 @@ hello
 $E=mc^2$
 #+END_SRC
 
+⊙ math testing
+** Greek characters
+#+BEGIN_SRC
+\alpha \beta
+#+END_SRC
+\alpha \beta
+
 * Parens
 hello \(E=mc^2\)
 * Double dollars
