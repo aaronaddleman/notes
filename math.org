@@ -6,7 +6,12 @@ x=\sqrt{b}                              % even tables, figures
 \end{equation}                          % etc
 
 * Dollars
-hello $E=mc^2$
+hello 
+
+#+BEGIN_SRC
+$E=mc^2$
+#+END_SRC
+
 * Parens
 hello \(E=mc^2\)
 * Double dollars
