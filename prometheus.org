@@ -1,0 +1,5 @@
+* prometheus
+** tools
+   - installing promtool is helpful for analysing files
+   - use the following command to install
+~go get github.com/prometheus/prometheus/cmd/~
